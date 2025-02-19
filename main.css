@@ -150,7 +150,7 @@ form button {
 
 form button:hover {
     background-color: #243f8a;
-    box-shadow: 3px 3px 0 #9bade488;
+    box-shadow: 3px 3px 0 #c8d2eec5;
 }
 
 input:focus, textarea:focus {
@@ -174,7 +174,7 @@ input:focus, textarea:focus {
 
 .social-links li a:hover {
     box-shadow: -5px 1px 7px #a6b7e949;
-    background-color: #a6b7e949;
+    background-color: #a6b7e9b9;
 }
 
 
